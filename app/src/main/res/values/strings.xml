@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Probando</string>
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+    <string name="boton1">Hoteles</string>
+    <string name="descripcionhoteles">
+        En dabeiba,encontraras hoteles y glampings desde los
+        $80000 COP por noche, comodas habitaciones que te permitaran
+        disfrutar del descanso y el relax del pueblo
+    </string>
+    <string name="descripcionrestaurantes" translatable="false">En dabeiba,encontraras restaurantes desde los
+        $20000 COP en adelante, ademas conoceras la sazon y las delicias de este pueblo.</string>
+
+    <string name="bienvenida">Bienvenido</string>
+    <string name="inicio">Descubrenos</string>
+    <string name="bienvenidausuario">Bienvenido</string>
+    <string name="hotel">HOTEL DESCANSO DEL MOCHO</string>
+    <string name="REST">RESTAURANTE COMA PUES</string>
+    <string name="rest1">Nuestro menú está repleto de platillos auténticos, preparados con recetas tradicionales y ingredientes frescos de la mejor calidad.</string>
+    <string name="prest2">Nuestros precios van desde 15.000 hasta 80.000</string>
+    <string name="st1">RECORRIDO POR LA ERMITA SANTA LAURA MONTOYA</string>
+    <string name="contacto">Contacto:3002122130</string>
+    <string name="precio">50000</string>
+
+
+</resources>

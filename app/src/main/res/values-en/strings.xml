@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Probando</string>
+    <string name="opcion1">About us</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="boton1">Hotels</string>
+    <string name="descripcionhoteles">
+        In Carolina del Principe, you will find hotels and glampings starting from
+        $80000 COP per night, comfortable rooms that will allow you
+        to enjoy the rest and relaxation of the town.
+    </string>
+
+
+    <string name="bienvenida">Welcome</string>
+    <string name="inicio">Discover us</string>
+    <string name="bienvenidausuario">welcome</string>
+    <string name="hotel">HOTEL REST OF MOCHO</string>
+    <string name="REST">RESTAURANT EAT THEN</string>
+    <string name="rest1">Our menu is full of authentic dishes, prepared with traditional recipes and fresh ingredients of the highest quality.</string>
+    <string name="prest2">Our prices range from 15,000 to 80,000</string>
+    <string name="st1">TOUR OF THE SANTA LAURA MONTOYA HERMITAGE</string>
+    <string name="contacto">Contact:3002122130</string>
+    <string name="precio">50000</string>
+</resources>
